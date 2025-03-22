@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Tutorial 9 practice creating a website\nAbout this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutorial 9 Website",
+    "section": "",
+    "text": "Practice\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
